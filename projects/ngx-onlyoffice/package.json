@@ -1,14 +1,14 @@
 {
-    "name": "ngx-onlyoffice",
+    "name": "@haikal212/ngx-onlyoffice",
     "version": "0.0.9",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hrueger/ngx-onlyoffice"
+        "url": "https://github.com/hikaru150s/ngx-onlyoffice"
     },
     "license": "MIT",
     "peerDependencies": {
-        "@angular/common": "^8.2.14",
-        "@angular/core": "^8.2.14"
+        "@angular/common": ">=8.2.14 <=12.0.0",
+        "@angular/core": ">=8.2.14 <=12.0.0"
     },
     "dependencies": {
         "tslib": "^2.0.0"
